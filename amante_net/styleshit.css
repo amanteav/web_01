@@ -47,6 +47,9 @@ li a:hover {
     
 
 }
+.gumroad-button{
+width:100%;
+}
 
 @keyframes mymove {
   0% {
