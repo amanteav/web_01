@@ -1,5 +1,5 @@
 
-.main { margin: 10px 60px; }
+.main { margin: 10px 0px; }
 
 
 div {  
@@ -102,6 +102,6 @@ button { width: 100%; }
 
 .bio{ margin: 10px; text-justify: auto;}
 
-.titlepage {  margin: 2px; padding-bottom: 1px; padding-top: 10px; padding-left: 60px; }
+.titlepage {  margin: 2px; padding-bottom: 1px; padding-top: 10px; padding-left: 0px; }
 
 .cv{ font-size:10px; display: flex; margin: 10px; text-justify: auto;}
