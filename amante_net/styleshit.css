@@ -104,4 +104,4 @@ button { width: 100%; }
 
 .titlepage {  margin: 2px; padding-bottom: 1px; padding-top: 1px; padding-left: 5%; }
 
-.cv{ text-size:8px; display: flex; margin: 10px; text-justify: auto;}
+.cv{ font-size:8px; display: flex; margin: 10px; text-justify: auto;}
