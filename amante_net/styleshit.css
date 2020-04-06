@@ -102,6 +102,6 @@ button { width: 100%; }
 
 .bio{ margin: 10px; text-justify: auto;}
 
-.titlepage {  margin: 2px; padding-bottom: 1px; padding-top: 1px; padding-left: 5%; }
+.titlepage {  margin: 2px; padding-bottom: 1px; padding-top: 1px; padding-left: 0%; }
 
 .cv{ font-size:10px; display: flex; margin: 10px; text-justify: auto;}
