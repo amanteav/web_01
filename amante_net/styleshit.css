@@ -100,9 +100,9 @@ button { width: 100%; }
 /*bio page */
 
 
-.bio{  font-family: arial Bold; font-size:12px; margin: 0px; text-justify: auto;}
+.bio{  font-family: malayalam; font-size:11px; margin: 0px; text-justify: auto;}
 
 .titlepage {  margin: 0px; padding-bottom: 1px; padding-top: 70px; padding-left: 15px; }
 
-.cv{ font-family: malayalam bold, Arial; font-size:12px; display: flex; margin: 10px 15px; text-justify: auto;}
+.cv{ font-family: malayalam bold, Arial; font-size:11px; display: flex; margin: 10px 15px; text-justify: auto;}
 .contact{ font-size:12px; display: flex; margin: 0px; text-justify: auto;}
