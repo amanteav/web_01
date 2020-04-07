@@ -13,7 +13,6 @@ div2{
     font-size: small;
 }
 body { 
-    font-family: Helvetica Neue, Arial;
     width: 60%;
     margin: auto;
     display: block ; 
@@ -101,7 +100,7 @@ button { width: 100%; }
 /*bio page */
 
 
-.bio{ font-size:12px; margin: 0px; text-justify: auto;}
+.bio{  font-family: arial Bold; font-size:12px; margin: 0px; text-justify: auto;}
 
 .titlepage {  margin: 0px; padding-bottom: 1px; padding-top: 70px; padding-left: 15px; }
 
