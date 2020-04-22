@@ -12,6 +12,8 @@ div2{
     display: block;  
     font-size: small;
 }
+div.3{ display:block; text-align:right; padding:0px; }
+
 body { 
     width: 60%;
     margin: auto;
@@ -96,6 +98,23 @@ font-size:10px;
 
 button { width: 100%; }
 
+.work-title{display: flex; font-size:12px; color:black;
+    padding-bottom: 0px; margin:15px; width:100%; }
+
+.work-info{display: flex; color:gray; 
+    padding-top:0px; padding-bottom: 0px; margin: 15px;  width:100%; font-size:12px;  }
+
+.work-pic{display:block; margin:15px; 
+    padding-top:0px; padding-bottom:0px; width:95%;
+      }
+
+.work-detail{display: block; margin: 0px; padding:0px; width:25%; height:0px; float:right; 
+    font-size:10px; padding-bottom:60px; color: gray;}
+
+.back{display: flex; margin: 0px; padding:0px; width:8%; float:right; 
+    font-size:12px; }
+
+.back a { text-decoration: none; color: gray;}
 
 /*bio page */
 
